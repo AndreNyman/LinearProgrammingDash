@@ -1,1 +1,3 @@
 # LinearProgrammingDash
+
+![LinearProgrammingDash](./AnimationOptimalMarketingSelection.gif)
